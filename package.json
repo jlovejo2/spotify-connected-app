@@ -1,0 +1,14 @@
+{
+  "name": "spotify-connected-app",
+  "version": "1.0.0",
+  "description": "app the connects and displays some of the more detailed info on a spotify account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Lovejoy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
